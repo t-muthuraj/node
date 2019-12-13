@@ -1,0 +1,8 @@
+{"0":"i","1":"s","2":"j","3":"d","4":"i","service":"your-service-name","level":"info","message":"aaa","timestamp":"2019-12-13 12:17:24"}
+{"message":"aaa","level":"info","service":"your-service-name","timestamp":"2019-12-13 13:19:52"}
+{"message":"aaa","level":"info","service":"your-service-name","timestamp":"2019-12-13 13:24:36"}
+{"message":"aaa","level":"info","service":"your-service-name","timestamp":"2019-12-13 14:33:08"}
+{"message":"aaa","level":"info","service":"your-service-name","timestamp":"2019-12-13 15:36:46"}
+{"message":"aaa","level":"info","service":"your-service-name","timestamp":"2019-12-13 16:40:17"}
+{"message":"aaa","level":"info","service":"your-service-name","timestamp":"2019-12-13 16:53:30"}
+{"message":"aaa","level":"info","service":"your-service-name","timestamp":"2019-12-13 16:55:04"}
